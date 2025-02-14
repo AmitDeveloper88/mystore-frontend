@@ -19,3 +19,7 @@ npm start
 Access the application:
 
 Open http://localhost:3000 in your browser.
+
+
+![image](https://github.com/user-attachments/assets/46026a2d-0552-48bb-ba7e-eee089f6c62c)
+
